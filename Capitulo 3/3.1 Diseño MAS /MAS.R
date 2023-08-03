@@ -6,8 +6,6 @@ library(survey)
 library(dplyr)
 library(sampling)
 library(srvyr)
-library(pps)
-library(xtable)
 
 setwd("../Notas muestreo")
 base::source("Funciones.R")
