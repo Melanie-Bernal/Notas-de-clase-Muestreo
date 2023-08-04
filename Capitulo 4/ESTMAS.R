@@ -42,8 +42,6 @@ colegios$Ne=ifelse(colegios$COLE_AREA_UBICACION=="RURAL",3375,6935)
 
 set.seed(123)
 s1=strata(colegios, c("COLE_AREA_UBICACION"), ne1, method="srswor")
-s2=strata(colegios, c("COLE_AREA_UBICACION"), ne2, method="srswor")
-s3=strata(colegios, c("COLE_AREA_UBICACION"), ne3, method="srswor")
 
 m1=colegios[s1$ID_unit,]
 m1$pik1=s1$Prob
