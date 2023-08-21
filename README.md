@@ -1,4 +1,4 @@
-**Notas de Clase de Muestreo **
+## Notas de Clase de Muestreo
 
 ¡Saludos y bienvenidos al Repositorio de Muestreo basado en las notas de clase de la Universidad Nacional! Aquí encontrarás un recurso que reúne conocimientos detallados sobre el muestreo y su aplicación en el ámbito académico. Estas notas de clase capturan las enseñanzas y experiencias compartidas en el entorno educativo, en el curso de muestreo.
 
